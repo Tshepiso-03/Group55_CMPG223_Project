@@ -314,14 +314,7 @@ namespace CMPG223_Project1
             }
 
             // Check RSVP selection
-            if (cbxRSVP.SelectedItem == null)
-            {
-                MessageBox.Show("Please select Yes or No for RSVP.");
-                return;
-            }
-
-            // Convert RSVP ComboBox to boolean safely
-            bool rsvpValue = cbxRSVP.SelectedItem?.ToString() == "Yes";
+            
         }
 
         private void btnExit_Click(object sender, EventArgs e)
@@ -397,7 +390,31 @@ namespace CMPG223_Project1
 
         private void cbxRSVP_SelectedIndexChanged(object sender, EventArgs e)
         {
+            if (cbxRSVP.SelectedItem == null)
+            {
+                MessageBox.Show("Please select Yes or No for RSVP.");
+                return;
+            }
 
+            // Convert RSVP ComboBox to boolean safely
+            //bool rsvpValue1 = cbxRSVP.SelectedItem?.ToString() == "Yes";
+            // Safe conversion to string and boolean
+            string rsvpStatus = cbxLoaBook.SelectedItem?.ToString();
+            bool rsvpValue = rsvpStatus == "Yes";
+
+            // Message and optionally enable/disable related controls (not the ComboBox itself)
+            if (rsvpValue)
+            {
+                MessageBox.Show("You have chosen yes for RSVP.");
+            }
+            else
+            {
+                MessageBox.Show("You have chosen no for RSVP.");
+                // Example: disable dependent ComboBox
+                // cbxAvailableBooks.Enabled = false;
+            }
+
+           
         }
         Dictionary<string, string> helpDictionary = new Dictionary<string, string>();
         private void HelpToolTip()
