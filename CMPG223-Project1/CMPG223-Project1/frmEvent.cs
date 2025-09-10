@@ -328,7 +328,7 @@ namespace CMPG223_Project1
 
         private void txtHelpSearch_TextChanged(object sender, EventArgs e)
         {
-            HelpSearch();
+            
         }
         private void HelpToolTip()
         {
@@ -402,6 +402,7 @@ namespace CMPG223_Project1
             txtAttendees.Clear();
             //txtBook.Clear();
             cbxReader.SelectedValue = -1;
+            cbxBooks.SelectedValue = -1;
         }
     }
 }
