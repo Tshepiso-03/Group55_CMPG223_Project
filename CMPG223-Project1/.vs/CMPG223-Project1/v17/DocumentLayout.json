@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Movies\\CMPG223-Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__MOVIES_CMPG223_PROJECT1_CMPG223_PROJECT1_LIBRARYDATABASE.MDF/True/SqlTable/dbo.Events.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|d:\\movies\\cmpg223-project1\\cmpg223-project1\\frmreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmloandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmloandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmloandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmloandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\frmauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\frmauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|D:\\Movies\\CMPG223-Project1\\cmpg223-project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC72CF81-A454-4B25-8ACE-475A7D65283C}|CMPG223-Project1\\CMPG223-Project1.csproj|solutionrelative:cmpg223-project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Events [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__MOVIES_CMPG223_PROJECT1_CMPG223_PROJECT1_LIBRARYDATABASE.MDF/True/SqlTable/dbo.Events.sql",
+              "ToolTip": "dbo.Events [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-09T11:34:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\Form1.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\Form1.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\Form1.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:47:29.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\Form1.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\Form1.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\Form1.cs",
+              "RelativeToolTip": "CMPG223-Project1\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:13:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReader.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmReader.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmReader.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmReader.cs",
+              "RelativeToolTip": "CMPG223-Project1\\frmReader.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAswD0BAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:16:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmReader.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmReader.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmReader.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmReader.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\frmReader.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:16:32.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMembers.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmMembers.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmMembers.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmMembers.cs",
+              "RelativeToolTip": "CMPG223-Project1\\frmMembers.cs",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAYwGQBAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:16:21.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMembers.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmMembers.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmMembers.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmMembers.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\frmMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:16:19.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLoanDetails.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmLoanDetails.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmLoanDetails.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmLoanDetails.cs",
+              "RelativeToolTip": "CMPG223-Project1\\frmLoanDetails.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAIAwwHABAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:14:50.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLoanDetails.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmLoanDetails.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmLoanDetails.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmLoanDetails.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\frmLoanDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:14:46.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEvent.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmEvent.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmEvent.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmEvent.cs",
+              "RelativeToolTip": "CMPG223-Project1\\frmEvent.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAEwIIBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:13:26.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmEvent.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmEvent.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmEvent.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmEvent.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\frmEvent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:13:24.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBook.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmBook.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmBook.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmBook.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\frmBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:09:56.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAuthor.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmAuthor.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmAuthor.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmAuthor.cs",
+              "RelativeToolTip": "CMPG223-Project1\\frmAuthor.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAA4wAQBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:03:54.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAuthor.cs [Design]",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmAuthor.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmAuthor.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmAuthor.cs [Design]",
+              "RelativeToolTip": "CMPG223-Project1\\frmAuthor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:03:53.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBook.cs",
+              "DocumentMoniker": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmBook.cs",
+              "RelativeDocumentMoniker": "CMPG223-Project1\\frmBook.cs",
+              "ToolTip": "D:\\Movies\\CMPG223-Project1\\CMPG223-Project1\\frmBook.cs",
+              "RelativeToolTip": "CMPG223-Project1\\frmBook.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAIwIYBAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:25:24.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
