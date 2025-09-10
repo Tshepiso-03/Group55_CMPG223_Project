@@ -16,7 +16,7 @@ namespace CMPG223_Project1
     public partial class frmAuthor : Form
     {
         //string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Models\GitProject\CMPG223-Project1\CMPG223-Project1\CMPG223-Project1\AuthorDatabase.mdf;Integrated Security=True";
-        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=\\143.160.81.140\CTX_Redirected_Data$\43252532\Documents\telePROJECTS\CMPG223-Project1\CMPG223-Project1\LibraryDatabase.mdf;Integrated Security=True";
+        string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=\\143.160.81.140\CTX_Redirected_Data$\43252532\Documents\GIT\Group55_CMPG223_Project\CMPG223-Project1\CMPG223-Project1\LibraryDatabase.mdf;Integrated Security=True";
         public frmAuthor()
         {
             InitializeComponent();
